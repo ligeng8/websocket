@@ -9,10 +9,6 @@ import org.springframework.stereotype.Controller;
 
 /**
  * 
- * @ClassName: WebSocketAction
- * @Description: websocket控制层
- * @author cheng
- * @date 2017年9月27日 下午4:20:58
  */
 @Controller
 public class WebSocketAction {
